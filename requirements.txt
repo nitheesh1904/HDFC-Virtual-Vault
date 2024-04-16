@@ -1,0 +1,7 @@
+fastapi==0.68.0
+langchain_community=={version_of_langchain_community}
+langchain_google_genai=={version_of_langchain_google_genai}
+langchain=={version_of_langchain}
+sentence-transformers==2.1.0
+flask==2.1.4
+uvicorn==0.15.0

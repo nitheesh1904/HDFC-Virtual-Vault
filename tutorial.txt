@@ -1,0 +1,10 @@
+Check NGROk website..
+
+or open folder ngrok v3 or smth in ur d and open that application
+
+
+ paste :ngrok config add-authtoken 2eB4NZZXLwhPVJyncJA6SZjrq2k_51c4Bpu16553SkkPTgnSi
+ and
+
+ ngrok http http://localhost:8080 change port id accordingly.
+ Before this run fast.py in this folder.
